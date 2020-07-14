@@ -8,3 +8,6 @@ else
   puts "Enjoy the fine day!"
 end
 puts "Oh, and always wear sunscreen!"
+
+current_time = Time.now 
+if current_time.to_i = 
